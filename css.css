@@ -1,0 +1,241 @@
+body{
+    margin: 0;
+}
+
+.background{
+    width: 1260px;
+    height: 940px;
+    background-color: #edf2c5;
+}
+
+.Vegetable{
+    width: 271px;
+    height: 62px;
+    font-size: 44px;
+    color:#778a50;
+    font-family: Arial Black;
+    margin-top: 36px;
+    margin-left: 160px;
+}
+
+
+.yuepaoruanjian{
+    width: 60px;
+    height: 25px;
+    margin-top:60px;
+    margin-left:469px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.line{
+    width: 1px;
+    height: 25px;
+    margin-top:60px;
+    margin-left:10px;
+    display: flex;
+    justify-content: column;
+    background-color:#778a50;
+}
+
+
+.LogJoin{
+    width:119px;
+    height:25px;
+    font-family: Arial ;
+    color:#778a50;
+    font-size: 14px;
+    margin-top:60px;
+    padding-right:160px;    
+    margin-bottom:18px;
+    margin-left:10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Lbox{
+    width: 60px;
+    height: 25px;
+    color:#778a50;
+    border:1px solid #778a50;
+    border-radius: 3px;
+}
+
+.login{
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color:#778a50;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin-top:5px;
+}
+
+.Jbox{
+    width: 49px;
+    height: 25px;
+    color:#778a50;
+    border:1px solid #778a50;
+    border-radius: 3px;
+}
+
+.join{
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color:#778a50;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin-top:5px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    margin-top: 5px;
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-left: 160px;
+}
+
+.menucolor{
+    display:flex;
+}
+
+.menuname{
+    font-size: 16px;
+    color: #edf2c5;
+    font-family: Arial black;
+    margin: 10px 30px;
+    text-decoration: none;
+}
+
+.VColor{
+    width: 444px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-top: 30px;
+    margin-left:160px;
+}
+
+.Vegetable01{
+    font-family: Arial black;
+    font-size: 16px;
+    margin: 10px 30px;
+    color: #edf2c5;
+}
+
+.pukkin{
+    font-family: Arial black;
+    padding-top:20px;
+    padding-left: 160px
+}
+
+.Content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.CColor{
+    width: 444px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-top: 30px;
+    margin-right:160px;
+}
+
+.contact{
+    font-family: Arial black;
+    font-size: 16px;
+    margin: 10px 30px;
+    color: #edf2c5;
+}
+
+.detail{
+    display: flex;
+    justify-content: space-between;
+}
+
+.picture{
+    padding-top: 15px;
+    padding-left: 160px;
+    width: 444px;
+    height: 140px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wordbox{
+    width: 444px;
+    height: 140px;
+    background-color: #f7fbda;
+    margin-right: 160px;
+    margin-top:15px
+}
+
+.word{
+    width: 414px;
+    height: 44px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    margin-top:15px;
+    padding-left:15px;
+    padding-right: 15px;
+}
+
+.contactmethod{
+    width: 197px;
+    height: 35px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+}
+
+.bottom{
+    margin-top: 35px;
+    width: 1260px;
+    height: 60px;
+    background-color: #778a50;
+}
+
+.bottomword{
+    width: 301px;
+    height: 14px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3;
+    letter-spacing: normal;
+    text-align: left;
+    color:#edf2c5;
+    display:flex;
+    justify-content: center;
+    padding-left:480px;
+}
